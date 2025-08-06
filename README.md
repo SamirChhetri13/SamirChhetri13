@@ -34,23 +34,7 @@
 - 🤝 Always open to collaborating on interesting **ML/AI** projects
 - 📫 Reach me at: **samirchhetri075@gmail.com**
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamirChhetri&show_icons=true&theme=radical" alt="Samir's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamirChhetri&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirChhetri&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 🔗 Let's Connect!
 
@@ -63,10 +47,4 @@
   </a>
 </p>
 
----
 
-### 🎨 Fun Fact
-
-> 💡 I love turning **data into insights** and **ideas into AI-powered applications**!
-
----
